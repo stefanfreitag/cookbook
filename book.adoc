@@ -1,0 +1,7 @@
+= Rezepte
+
+:toc: left
+
+include::salate/salate.adoc[]
+
+include::suppen/suppen.adoc[]
