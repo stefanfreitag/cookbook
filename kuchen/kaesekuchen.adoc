@@ -1,0 +1,38 @@
+= Käsekuchen
+
+image::../images/kaesekuchen.jpg[Käsekuchen ,width=640,height=480]
+
+
+* Zubereitung: ca. 20 Minuten
+* Backen: ca. 60 Minuten
+   
+== Zutaten
+    
+Für den Teig
+
+* 200 g Mehl
+* 75 g Zucker
+* 75 g Margarine
+* 1 Ei (Größe M)
+* 1/2 Pck. Backpulver
+
+Für die Füllung
+
+* 125 g Margarine
+* 225 g Zucker
+* 1 Pck. Vanillezucker
+* 1 Pck. Puddingpulver, Vanillegeschmack
+* 3 Eier
+* 500 g Quark
+* 200 g saure Sahne
+* 200 g süße Sahne
+
+== Zubereitung
+
+* Die Zutaten für den Teig in eine Schüssel geben, rasch zusammenkneten und zur Seite stellen.
+* Für die Füllung Margarine, Zucker, Vanillezucker, Puddingpulver und 3 Eier in einer Schüssel verrühren. Den Quark und die saure Sahne untermischen. Die süße Sahne steif schlagen und unterheben
+* Den Teig in einer gefetteten Springform auslegen, etwa 2 bis 3 cm am Rand hochziehen. Die Füllung in die Form geben, glatt streichen und in den vorgeheizten Backofen geben. Bei 180° Celsius ca. 60 Minuten backen.
+
+---
+
+Quelle: https://www.chefkoch.de/rezepte/1218391227356456/Der-beste-Kaesekuchen-der-Welt.html
