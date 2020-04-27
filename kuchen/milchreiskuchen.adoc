@@ -1,5 +1,7 @@
 = Milchreiskuchen
 
+image::../images/milchreiskuchen.jpg[Milchreiskuchen ,width=640,height=480]
+
 
 * Zubereitung: ca. 25 Minuten
 * Backen: ca. 45 Minuten

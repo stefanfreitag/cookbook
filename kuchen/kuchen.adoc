@@ -1,3 +1,9 @@
 == Kuchen
 
+include::apfelkuchen_mit_mandelguss.adoc[]
+
+include::faule_weiber_kuchen.adoc[]
+
 include::kaesekuchen.adoc[]
+
+include::milchreiskuchen.adoc[]
