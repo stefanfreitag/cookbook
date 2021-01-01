@@ -1,6 +1,6 @@
 = Milchreiskuchen
 
-image::../images/milchreiskuchen.jpg[Milchreiskuchen ,width=640,height=480]
+image::./images/milchreiskuchen.jpg[Milchreiskuchen ,width=640,height=480]
 
 
 * Zubereitung: ca. 25 Minuten

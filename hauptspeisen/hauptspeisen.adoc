@@ -1,0 +1,11 @@
+= Hauptspeisen
+
+:leveloffset: +1
+
+include::one_pot_swedish_meatballs.adoc[]
+
+<<<
+    
+include::spaghetti_mit_tomaten_thunfisch_sahne_sosse.adoc[]
+
+:leveloffset: -1

@@ -1,3 +1,3 @@
-== Salate
+= Salate
 
-include::kartoffel_gurken_salat.adoc[]
+include::kartoffel_gurken_salat.adoc[leveloffset=+1]

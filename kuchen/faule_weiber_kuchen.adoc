@@ -1,6 +1,6 @@
 = Faule Weiber - Kuchen
 
-image::../images/fauleweiberkuchen.jpg[Faule Weiber-Kuchen ,width=640,height=480]
+image::./images/fauleweiberkuchen.jpg[Faule Weiber-Kuchen ,width=640,height=480]
 
 
 * Zubereitung: ca. 25 Minuten

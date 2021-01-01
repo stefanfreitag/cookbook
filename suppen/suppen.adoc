@@ -1,5 +1,13 @@
-== Suppen
+= Suppen
+
+:leveloffset: +1
 
 include::vegetarisch/kartoffelsuppe.adoc[]
 
+<<<
+
 include::gulaschsuppe.adoc[]
+
+<<<
+
+:leveloffset: -1

@@ -1,7 +1,25 @@
 = Rezepte
 
-:toc: left
+:toc:
+
+:leveloffset: +1
 
 include::salate/salate.adoc[]
 
+<<<
+
 include::suppen/suppen.adoc[]
+
+<<<
+
+include::hauptspeisen/hauptspeisen.adoc[]
+
+<<<
+
+include::kuchen/kuchen.adoc[]
+
+<<<
+
+include::nachspeise/nachspeisen.adoc[]
+
+:leveloffset: -1

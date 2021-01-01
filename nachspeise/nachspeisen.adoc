@@ -1,3 +1,7 @@
-== Nachspeisen
+= Nachspeisen
+
+:leveloffset: +1
 
 include::suesse_wurst.adoc[]
+
+:leveloffset: -1

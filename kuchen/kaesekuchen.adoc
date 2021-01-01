@@ -1,6 +1,6 @@
 = Käsekuchen
 
-image::../images/kaesekuchen.jpg[Käsekuchen ,width=640,height=480]
+image::./images/kaesekuchen.jpg[Käsekuchen ,width=640,height=480]
 
 
 * Zubereitung: ca. 20 Minuten
