@@ -2,10 +2,23 @@
 
 :leveloffset: +1
 
+include::vegetarisch/bandnudeln_mit_zucchine_in_safransauce.adoc[]
+
+<<<
+
+
+include::vegetarisch/one_pot_pasta_kokosmilch_curry.adoc[]
+
+<<<
+
 include::one_pot_swedish_meatballs.adoc[]
 
 <<<
     
 include::spaghetti_mit_tomaten_thunfisch_sahne_sosse.adoc[]
+
+<<<
+    
+include::vegetarisch/tomatenrisotto.adoc[]
 
 :leveloffset: -1
