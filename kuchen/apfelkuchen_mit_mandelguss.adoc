@@ -18,7 +18,7 @@ image::./images/apfelkuchen_mit_mandelguss.jpg[Apfelkuchen mit Mandelguss ,width
 * 1 Pck. Vanillezucker
 * 5	Äpfel, säuerlich
 
-= Für den Guss
+=== Für den Guss
 
 * 100 g	Butter
 * 100 g	Zucker

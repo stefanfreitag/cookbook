@@ -5,6 +5,10 @@ include::apfelkuchen_mit_mandelguss.adoc[]
 
 <<<
 
+include::cinnamon_crumble_apple_pie.adoc[]
+
+<<<
+
 include::faule_weiber_kuchen.adoc[]
 
 <<<
