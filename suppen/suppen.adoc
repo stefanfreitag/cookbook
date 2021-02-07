@@ -6,6 +6,10 @@ include::vegetarisch/kartoffelsuppe.adoc[]
 
 <<<
 
+include::vegetarisch/kartoffelsuppe_mit_gemueseeinlage.adoc[]
+
+<<<
+
 include::gulaschsuppe.adoc[]
 
 <<<
