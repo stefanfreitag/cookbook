@@ -14,4 +14,8 @@ include::gulaschsuppe.adoc[]
 
 <<<
 
+include::kaese_lauch_suppe_mit_hackfleisch.adoc[]
+
+<<<
+
 :leveloffset: -1
