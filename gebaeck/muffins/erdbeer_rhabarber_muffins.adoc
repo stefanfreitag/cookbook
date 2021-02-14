@@ -1,6 +1,6 @@
 = Erdbeer-Rhabarber-Muffins
 
-image::../../images/erdbeer_rhabarber_muffins.jpg[Erdbeer-Rhabarber-Muffins]
+image::./images/erdbeer_rhabarber_muffins.jpg[Erdbeer-Rhabarber-Muffins]
 
 
 * Zubereitung: ca. 30 Minuten

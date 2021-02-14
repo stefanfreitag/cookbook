@@ -1,0 +1,16 @@
+= Gebäck
+
+:leveloffset: +1
+
+include::muffins/apfelmuffins.adoc[]
+
+<<<
+
+include::muffins/erdbeer_rhabarber_muffins.adoc[]
+
+<<<
+
+include::muffins/marmor_nutella_muffins.adoc[]
+
+
+:leveloffset: -1

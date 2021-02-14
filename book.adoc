@@ -20,6 +20,11 @@ include::kuchen/kuchen.adoc[]
 
 <<<
 
+include::gebaeck/gebaeck.adoc[]
+
+<<<
+
+
 include::nachspeise/nachspeisen.adoc[]
 
 :leveloffset: -1

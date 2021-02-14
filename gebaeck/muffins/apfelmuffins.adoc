@@ -1,6 +1,6 @@
 = Apfelmuffins
 
-image::../../images/apfelmuffins.jpg[Apfelmuffins]
+image::./images/apfelmuffins.jpg[Apfelmuffins]
 
 
 * Zubereitung: ca. 15 Minuten
