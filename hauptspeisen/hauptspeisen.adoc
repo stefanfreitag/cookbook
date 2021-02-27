@@ -6,6 +6,10 @@ include::vegetarisch/bandnudeln_mit_zucchine_in_safransauce.adoc[]
 
 <<<
 
+include::vegetarisch/brokkoli_feta_pie.adoc[]
+
+<<<
+
 
 include::vegetarisch/one_pot_pasta_kokosmilch_curry.adoc[]
 
