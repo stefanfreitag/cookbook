@@ -21,4 +21,8 @@ include::milchreiskuchen.adoc[]
 
 <<<
 
+include::quark_streuselkuchen_mit_kirschen.adoc[]
+
+<<<
+
 :leveloffset: -1
