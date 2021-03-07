@@ -10,7 +10,6 @@ include::vegetarisch/brokkoli_feta_pie.adoc[]
 
 <<<
 
-
 include::vegetarisch/one_pot_pasta_kokosmilch_curry.adoc[]
 
 <<<
@@ -23,6 +22,10 @@ include::spaghetti_mit_tomaten_thunfisch_sahne_sosse.adoc[]
 
 <<<
     
+include::strassburger_auflauf.adoc[]
+
+<<<
+
 include::vegetarisch/tomatenrisotto.adoc[]
 
 :leveloffset: -1
