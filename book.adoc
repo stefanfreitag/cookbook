@@ -1,6 +1,6 @@
 = Rezepte
-
 :toc:
+:toc-title: Inhaltsverzeichnis
 
 :leveloffset: +1
 
