@@ -1,11 +1,13 @@
 = Erdbeer-Rhabarber-Muffins
 
-image::./images/erdbeer_rhabarber_muffins.jpg[Erdbeer-Rhabarber-Muffins]
-
-
-* Zubereitung: ca. 30 Minuten
-* Kochzeit: ca. 35 Minuten
-* Für 18 Stück
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::erdbeer_rhabarber_muffins.jpg[Erdbeer-Rhabarber-Muffins,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+- Zubereitung: ca. 30 Minuten
+- Kochzeit: ca. 35 Minuten
+- Für 18 Stück
+|===
   
 == Zutaten
 

@@ -1,10 +1,13 @@
 = Apfelkuchen mit Mandelguss
 
-image::./images/apfelkuchen_mit_mandelguss.jpg[Apfelkuchen mit Mandelguss ,width=640,height=480]
-
-* Zubereitung: ca. 20 Minuten
-* Backen: ca. 45 Minuten
-* Springform mit 26cm Durchmesser   
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::apfelkuchen_mit_mandelguss.jpg[Apfelkuchen mit Mandelguss,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+- Zubereitung: ca. 20 Minuten
+- Backen: ca. 45 Minuten
+- Springform mit 26cm Durchmesser   
+|===
 
 == Zutaten
    

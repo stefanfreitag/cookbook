@@ -1,4 +1,8 @@
 = Rezepte
+
+:imagesdir: ./output_pdf/images
+
+
 :toc:
 :toc-title: Inhaltsverzeichnis
 

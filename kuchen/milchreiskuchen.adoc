@@ -1,11 +1,13 @@
 = Milchreiskuchen
 
-image::./images/milchreiskuchen.jpg[Milchreiskuchen ,width=640,height=480]
-
-
-* Zubereitung: ca. 25 Minuten
-* Backen: ca. 45 Minuten
-* Springform mit 26 cm Durchmesser   
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::milchreiskuchen.jpg[Milchreiskuchen,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+- Zubereitung: ca. 25 Minuten
+- Backen: ca. 45 Minuten
+- Springform mit 26 cm Durchmesser   
+|===
 
 == Zutaten
    
