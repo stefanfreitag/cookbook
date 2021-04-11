@@ -1,11 +1,14 @@
 = Käsekuchen
 
-image::./images/kaesekuchen.jpg[Käsekuchen ,width=640,height=480]
 
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::kaesekuchen.jpg[Käsekuchen,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+- Zubereitung: ca. 20 Minuten
+- Backen: ca. 60 Minuten
+|===
 
-* Zubereitung: ca. 20 Minuten
-* Backen: ca. 60 Minuten
-   
 == Zutaten
     
 Für den Teig

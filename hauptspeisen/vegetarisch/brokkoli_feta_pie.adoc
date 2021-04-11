@@ -1,14 +1,15 @@
 = Brokkoli-Feta-Pie
 
-image::./images/brokkoli_feta_pie.jpg[Brokkoli-Feta-Pie]
-
-
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::brokkoli_feta_pie.jpg[Brokkoli-Feta-Pie,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
 - Zubereitung: ca. 20 Minuten
 - Backzeit: ca. 20 - 30 Minuten
 - Für 3 Personen
+|===
   
 == Zutaten
-
 
 === Für den Boden
 

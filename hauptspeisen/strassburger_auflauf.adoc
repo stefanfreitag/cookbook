@@ -1,10 +1,14 @@
 = Straßburger Auflauf
 
-image::./images/strassburger_auflauf.jpg[Straßburger Auflauf]
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::strassburger_auflauf.jpg[Straßburger Auflauf,width=800,height=600,pdfwidth=80%,align="center"] 
+a|.Allgemeines
 
-* Zubereitung 20 Minuten
-* Backzeit 25-30 Minuten
-* Für 2 Personen
+- Zubereitung 20 Minuten
+- Backzeit 25-30 Minuten
+- Für 2 Personen
+|===
 
 == Zutaten
 

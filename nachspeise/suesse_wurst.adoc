@@ -1,9 +1,12 @@
 = Süße Wurst
 
-image::./images/suesse_wurst.jpg[Süße Wurst ,width=640,height=480]
-
-* Zubereitung: ca. 20 Minuten
-* Kühlzeit: ca. 2 Stunden
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::suesse_wurst.jpg[Süße Wurst,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+- Zubereitung: ca. 20 Minuten
+- Kühlzeit: ca. 2 Stunden
+|===
    
 == Zutaten
     
