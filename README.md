@@ -15,3 +15,10 @@ A collection of cooking and baking recipes
   ```sh
   make html
   ```
+
+- Transforming html file to asciidoc
+
+  ```sh
+  pandoc -f html -t asciidoc <filename>
+  ```
+  

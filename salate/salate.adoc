@@ -1,3 +1,18 @@
 = Salate
 
-include::kartoffel_gurken_salat.adoc[leveloffset=+1]
+:leveloffset: +1
+
+
+include::angies_nudelsalat.adoc[]
+
+<<<
+
+include::kartoffel_gurken_salat.adoc[]
+
+<<<
+
+include::nudelsalat_caprese.adoc[]
+
+<<<
+
+:leveloffset: -1

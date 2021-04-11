@@ -7,7 +7,7 @@ pdf:
 
 html:
 	mkdir -p output/images
-	asciidoctor -a toc  book.adoc -D output -d book -n
+	asciidoctor -b html5 book.adoc -D output -n
 
 pdf_images:
 	for f in $(shell ls images); do \

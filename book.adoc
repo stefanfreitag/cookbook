@@ -1,13 +1,11 @@
 = Rezepte
-
-:imagesdir: ./output_pdf/images
-
-
-:toc:
+:toc: left
 :toc-title: Inhaltsverzeichnis
-
+:imagesdir: ./output_pdf/images
 :leveloffset: +1
 
+<<<
+    
 include::salate/salate.adoc[]
 
 <<<
