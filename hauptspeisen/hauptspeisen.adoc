@@ -8,6 +8,15 @@ include::vegetarisch/bandnudeln_mit_zucchine_in_safransauce.adoc[]
 
 include::vegetarisch/brokkoli_feta_pie.adoc[]
 
+
+<<<
+
+include::vegetarisch/fladenbrot_pizza.adoc[]
+
+<<<
+
+include::vegetarisch/fladenbrot_pizza_caprese.adoc[]
+
 <<<
 
 include::vegetarisch/one_pot_pasta_kokosmilch_curry.adoc[]
