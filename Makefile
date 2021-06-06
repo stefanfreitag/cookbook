@@ -9,6 +9,7 @@ pdf:
 html:
 	mkdir -p docs/images
 	asciidoctor -b html5 book.adoc -D docs -n
+	mv docs/book.html index.html
 
 pdf_images:
 	for f in $(shell ls images); do \
