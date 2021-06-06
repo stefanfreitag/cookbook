@@ -1,13 +1,14 @@
 OUTPUT_DIRECTORY=output
 OUTPUT_DIRECTORY_IMAGES=OUTPUT_DIRECTORY/images
 
+
 pdf:
 	mkdir -p output_pdf/images
 	asciidoctor-pdf book.adoc -D output
 
 html:
-	mkdir -p output/images
-	asciidoctor -b html5 book.adoc -D output -n
+	mkdir -p docs/images
+	asciidoctor -b html5 book.adoc -D docs -n
 
 pdf_images:
 	for f in $(shell ls images); do \
@@ -19,11 +20,12 @@ pdf_images:
 	done
 	
 html_images:
+	mkdir -p docs/images
 	for f in $(shell ls images); do \
 		echo $${f}; \
-		if [ ! -f output/images/$$f ]; \
+		if [ ! -f docs/images/$$f ]; \
 		then \
-  			convert -resize 1024x768 images/$$f output/images/$$f; \
+  			convert -resize 1024x768 images/$$f docs/images/$$f; \
 		fi \
 	done
 	
