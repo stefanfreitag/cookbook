@@ -1,15 +1,15 @@
 OUTPUT_DIRECTORY=output
 OUTPUT_DIRECTORY_IMAGES=OUTPUT_DIRECTORY/images
 
-
+default: html_images html
 pdf:
 	mkdir -p output_pdf/images
 	asciidoctor-pdf book.adoc -D output
 
 html:
 	mkdir -p docs/images
-	asciidoctor -b html5 book.adoc -D docs -n
-	mv docs/book.html docs/index.html
+	asciidoctor -b html5 book.adoc -o docs/index.html -n
+	
 
 pdf_images:
 	for f in $(shell ls images); do \
