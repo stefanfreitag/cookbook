@@ -1,0 +1,35 @@
+= Bubble up-Pizza
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::../images/bubble_up_pizza.jpg[Bubble Up-Pizza,width=800,height=600,pdfwidth=80%,align="center"] 
+a|.Allgemeines
+
+- Zubereitung: ca. 30 Minuten
+- Backen: ca. 20 Minuten
+- Für 4 Portionen
+|===
+
+== Zutaten
+
+- 2 Dosen Teig für Sonntagsbrötchen, aus dem Kühlregal
+- 100 g Salami
+- 1 Dose Tomaten, stückig
+- Tabasco
+- Chili
+- 150 g Käse, gerieben
+
+== Zubereitung
+
+- Den Backofen vorheizen (Ober-/Unterhitze: 200° Celsius, Umluft: 175°
+Celsius). Eine ofenfeste Pfanne (ca. 28 cm Durchmesser) oder Auflaufform
+fetten. Die Brötchendosen öffnen. Die Teigstücke in 6 Stücke trennen und
+anschließend in die Pfanne bzw. Form legen.
+- Die Dose stückige Tomaten mit Flüssigkeit darüber verteilen. Mit Salz,
+Pfeffer und Chili würzen. Bei Bedarf mit wenig Tabasco verfeinern.
+Zuletzt mit Salami belegen und alles mit Käse betreuen. Im heißen Ofen
+20 - 25 Minuten backen.
+
+---
+
+Quelle: http://www.chefkoch.de/rezepte/2234091357829470/Bubble-up-Pizza.html

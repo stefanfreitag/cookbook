@@ -12,6 +12,9 @@ include::bauerntopf.adoc[]
 
 include::vegetarisch/brokkoli_feta_pie.adoc[]
 
+<<<
+
+include::bubble_up_pizza.adoc[]
 
 <<<
 
@@ -20,6 +23,10 @@ include::vegetarisch/fladenbrot_pizza.adoc[]
 <<<
 
 include::vegetarisch/fladenbrot_pizza_caprese.adoc[]
+
+<<<
+
+include::gnocchi_mit_wurstspiessen.adoc[]
 
 <<<
 
@@ -40,11 +47,19 @@ include::spaghetti_mit_tomaten_thunfisch_sahne_sosse.adoc[]
 
 <<<
 
+include::vegetarisch/spicy_thai_noodles.adoc[]
+
+<<<
+
 include::vegetarisch/spinat_lasagne.adoc[]
 
 <<<
     
 include::strassburger_auflauf.adoc[]
+
+<<<
+    
+include::thunfisch_nudel_auflauf.adoc[]
 
 <<<
 
