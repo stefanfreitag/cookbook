@@ -18,4 +18,8 @@ include::kaese_lauch_suppe_mit_hackfleisch.adoc[]
 
 <<<
 
+include::vegetarisch/tomatensuppe_mit_reis.adoc[]
+
+<<<
+
 :leveloffset: -1
