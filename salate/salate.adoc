@@ -7,6 +7,10 @@ include::angies_nudelsalat.adoc[]
 
 <<<
 
+include::bunter_reissalat.adoc[]
+
+<<<
+
 include::kartoffel_gurken_salat.adoc[]
 
 <<<
@@ -15,7 +19,27 @@ include::nudelsalat_caprese.adoc[]
 
 <<<
 
+include::paprika_couscous_salat.adoc[]
+
+<<<
+
 include::reissalat_mexiko.adoc[]
+
+<<<
+
+include::schuettelgurken.adoc[]
+
+<<<
+
+include::tomaten_brot_salat.adoc[]
+
+<<<
+
+include::tortellini_salat_mit_rucola.adoc[]
+
+<<<
+
+include::zucchinisalat.adoc[]
 
 <<<
 
