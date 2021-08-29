@@ -14,7 +14,35 @@ include::muffins/marmor_nutella_muffins.adoc[]
 
 <<<
 
+include::apfel_zimt_fruchtriegel.adoc[]
+
+<<<
+
+include::ausstechplaetzchen.adoc[]
+
+<<<
+
+include::buttermilchbroetchen.adoc[]
+
+<<<
+
+include::caipirinha_plaetzchen.adoc[]
+
+<<<
+
 include::nussecken.adoc[]
+
+<<<
+
+include::peanut_cookies.adoc[]
+
+<<<
+
+include::vegane_amerikaner.adoc[]
+
+<<<
+
+include::zitronengras_vanilla_cookies.adoc[]
 
 
 :leveloffset: -1
