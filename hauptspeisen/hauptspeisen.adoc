@@ -2,6 +2,14 @@
 
 :leveloffset: +1
 
+include::vegetarisch/backkartoffel_mit_linsen_dip.adoc[]
+
+<<<
+
+include::vegetarisch/baerlauch_feta_kringel.adoc[]
+
+<<<
+
 include::vegetarisch/bandnudeln_mit_zucchine_in_safransauce.adoc[]
 
 <<<
@@ -56,6 +64,10 @@ include::vegetarisch/spinat_lasagne.adoc[]
 <<<
     
 include::strassburger_auflauf.adoc[]
+
+<<<
+    
+include::vegetarisch/tomatentarte_mit_ziegenkaese.adoc[]
 
 <<<
     
