@@ -1,6 +1,5 @@
 = Bauerntopf
 
-
 * Zubereitung 20 Minuten
 * Kochzeit 40 Minuten
 * Für 3 Personen
