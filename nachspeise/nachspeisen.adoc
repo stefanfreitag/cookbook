@@ -2,6 +2,26 @@
 
 :leveloffset: +1
 
+include::fruchtiges_tiramisu.adoc[]
+
+<<<<
+
+include::quarkauflauf_mit_beeren.adoc[]
+
+<<<<
+
+include::rhabarber_auflauf.adoc[]
+
+<<<<
+
+include::rhabarber_bananen_gratin.adoc[]
+
+<<<<
+
+include::rhabarber_pudding.adoc[]
+
+<<<<
+
 include::suesse_wurst.adoc[]
 
 :leveloffset: -1
