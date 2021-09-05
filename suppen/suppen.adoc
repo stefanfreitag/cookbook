@@ -2,6 +2,14 @@
 
 :leveloffset: +1
 
+include::vegetarisch/fruchtige_kuerbissuppe.adoc[]
+
+<<<
+
+include::vegetarisch/hoellische_kuerbissuppe.adoc[]
+
+<<<
+
 include::vegetarisch/kartoffelsuppe.adoc[]
 
 <<<
@@ -18,7 +26,31 @@ include::kaese_lauch_suppe_mit_hackfleisch.adoc[]
 
 <<<
 
+include::vegetarisch/kuerbis_orangen_suppe.adoc[]
+
+<<<
+
+include::vegetarisch/lauchsuppe.adoc[]
+
+<<<
+
+include::vegetarisch/paprika_kichererbsen_suppe.adoc[]
+
+<<<
+
+include::vegetarisch/rote_zwiebelrahmsuppe.adoc[]
+
+<<<
+
+include::vegetarisch/spinatcremesuppe.adoc[]
+
+<<<
+
 include::vegetarisch/tomatensuppe_mit_reis.adoc[]
+
+<<<
+
+include::vegetarisch/tomatensuppe.adoc[]
 
 <<<
 
