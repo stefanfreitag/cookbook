@@ -9,7 +9,10 @@ pdf:
 html:
 	mkdir -p docs/images
 	asciidoctor -b html5 book.adoc -o docs/index.html -n
-	
+
+html_multipage:
+	mkdir -p docs/images
+	asciidoctor -r asciidoctor-multipage -b multipage_html5 book.adoc -o docs/index.html -n
 
 pdf_images:
 	for f in $(shell ls images); do \
