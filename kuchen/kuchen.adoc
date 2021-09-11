@@ -38,6 +38,10 @@ include::birnenkuchen_mit_nuss_streuseln.adoc[]
 
 <<<
 
+include::buttermilchkuchen.adoc[]
+
+<<<
+
 include::cinnamon_crumble_apple_pie.adoc[]
 
 <<<
@@ -50,7 +54,27 @@ include::faule_weiber_kuchen.adoc[]
 
 <<<
 
+include::haselnusskuchen.adoc[]
+
+<<<
+
+include::himbeer_kokos_kuchen.adoc[]
+
+<<<
+
 include::kaesekuchen.adoc[]
+
+<<<
+
+include::key_lime_pie.adoc[]
+
+<<<
+
+include::kirsch_mandel_kuchen.adoc[]
+
+<<<
+
+include::kokoskuchen.adoc[]
 
 <<<
 
