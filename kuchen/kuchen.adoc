@@ -1,11 +1,48 @@
 = Kuchen
 
 :leveloffset: +1
+
+include::amaretto_sahne_torte.adoc[]
+
+<<<
+
 include::apfelkuchen_mit_mandelguss.adoc[]
 
 <<<
 
+include::apfel_streuselkuchen.adoc[]
+
+<<<
+
+include::apfelmus_kuchen.adoc[]
+
+<<<
+
+include::aprikosen_knusper_strudel.adoc[]
+
+<<<
+
+include::aprikosenkuchen.adoc[]
+
+<<<
+
+include::beeren_cheesecake.adoc[]
+
+<<<
+
+include::bienenstich.adoc[]
+
+<<<
+
+include::birnenkuchen_mit_nuss_streuseln.adoc[]
+
+<<<
+
 include::cinnamon_crumble_apple_pie.adoc[]
+
+<<<
+
+include::fanta_apfelkuchen.adoc[]
 
 <<<
 
@@ -14,6 +51,10 @@ include::faule_weiber_kuchen.adoc[]
 <<<
 
 include::kaesekuchen.adoc[]
+
+<<<
+
+include::marmorkuchen.adoc[]
 
 <<<
 
