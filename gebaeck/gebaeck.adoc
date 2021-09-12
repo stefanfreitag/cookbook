@@ -14,11 +14,23 @@ include::muffins/marmor_nutella_muffins.adoc[]
 
 <<<
 
+include::apfeltaschen.adoc[]
+
+<<<
+
 include::apfel_zimt_fruchtriegel.adoc[]
 
 <<<
 
+include::aprikosen_ufos.adoc[]
+
+<<<
+
 include::ausstechplaetzchen.adoc[]
+
+<<<
+
+include::brioche.adoc[]
 
 <<<
 
@@ -27,6 +39,10 @@ include::buttermilchbroetchen.adoc[]
 <<<
 
 include::caipirinha_plaetzchen.adoc[]
+
+<<<
+
+include::cranberry_cookies.adoc[]
 
 <<<
 

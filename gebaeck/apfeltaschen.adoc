@@ -1,0 +1,23 @@
+= Apfeltaschen
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::apfeltaschen.jpg[Apfeltaschen,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Zubereitung: ca. 15 Minuten
+* Backzeit: ca. 20 Minuten
+|===
+== Zutaten
+
+* 2 Packungen Blätterteig
+* 5 Äpfel
+* 4 EL Zitronensaft
+* Zucker
+
+== Zubereitung
+
+- Blätterteig auftauen und in Quadrate schneiden. Äpfel schälen und in
+kleine Würfel schneiden. Mit Zitronensaft beträufeln. In jedes Quadrat
+ca. 1 EL Apfelwürfel und 1 TL Zucker legen. Die Taschen formen, an den
+Rändern zusammen drücken. Im vorgeheizten Backofen bei 180° Celsius ca.
+20 Minuten backen.
