@@ -7,7 +7,35 @@ include::angies_nudelsalat.adoc[]
 
 <<<
 
+include::bayrischer_feldsalat.adoc[]
+
+<<<
+
+include::berliner_kartoffelsalat.adoc[]
+
+<<<
+
+include::bulgur_salat.adoc[]
+
+<<<
+
 include::bunter_reissalat.adoc[]
+
+<<<
+
+include::couscous_salat_mit_feta.adoc[]
+
+<<<
+
+include::couscous_salat.adoc[]
+
+<<<
+
+include::ebly_salat.adoc[]
+
+<<<
+
+include::italienischer_nudelsalat_mit_pesto.adoc[]
 
 <<<
 
@@ -23,6 +51,10 @@ include::paprika_couscous_salat.adoc[]
 
 <<<
 
+include::quinoa_powersalat_mit_avocado_und_tomate.adoc[]
+
+<<<
+
 include::reissalat_mexiko.adoc[]
 
 <<<
@@ -31,11 +63,19 @@ include::schuettelgurken.adoc[]
 
 <<<
 
+include::tomaten_ball_salat.adoc[]
+
+<<<
+
 include::tomaten_brot_salat.adoc[]
 
 <<<
 
 include::tortellini_salat_mit_rucola.adoc[]
+
+<<<
+
+include::tortellini_salat_siciliana.adoc[]
 
 <<<
 
