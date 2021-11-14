@@ -1,0 +1,49 @@
+= NY Cheese Cake
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::cheesecake.jpg[Cheesecake,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Zubereitung: ca. 10 Minuten
+* Backen: ca. 60 Minuten
+* Für 1 Springform mit 24 cm Durchmesser
+|===
+
+
+== Zutaten
+
+=== Für den Boden
+
+* 200 g Butterkekse
+* 100 g Butter
+
+=== Für den Belag
+
+* 200 g Zucker
+* 3 EL Speisestärke
+* 600 g Frischkäse
+* 200 g Magerquark
+* 150 g Sahne
+* 1 Ei
+* 2 EL Zitronensaft
+
+=== Für den Guss
+
+* 250 g Schmand
+* 2 EL Zucker
+* 1 Pck. Vanillezucker
+* 1 TL Zitronensaft
+
+== Zubereitung
+
+- Die Butterkekse zerbröseln und mit der flüssigen Butter vermischen.
+Die Mischung auf den Boden einer Backform drücken. Bei 180° Celsius im
+vorgeheizten Ofen 5 bis 10 Minuten vorbacken, dann herausholen.
+- Den Zucker mit Stärke, Frischkäse und Magerquark cremig rühren. Das
+Ei, die Sahne und den Zitronensaft dazugeben und alles glatt rühren.
+Nicht mit dem Rührgerät schlagen, sondern langsam cremig rühren.
+- Die Creme auf den vorgebackenen Boden streichen und den Kuchen weitere
+45 Minuten backen. Wenn der Rand leicht braun ist, herausnehmen.
+- Die Zutaten für den Guss miteinander verrühren, den Guss auf den
+Kuchen streichen und den Kuchen nochmal 5 Minuten backen. Über Nacht
+auskühlen lassen.

@@ -38,7 +38,19 @@ include::birnenkuchen_mit_nuss_streuseln.adoc[]
 
 <<<
 
+include::biskuitrolle_mit_heidelbeerschmand.adoc[]
+
+<<<
+
 include::buttermilchkuchen.adoc[]
+
+<<<
+
+include::cheesecake.adoc[]
+
+<<<
+
+include::chocolate_cake.adoc[]
 
 <<<
 
