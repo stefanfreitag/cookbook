@@ -58,6 +58,14 @@ include::cinnamon_crumble_apple_pie.adoc[]
 
 <<<
 
+include::donauwelle.adoc[]
+
+<<<
+
+include::erdbeer_basilikum_torte.adoc[]
+
+<<<
+
 include::fanta_apfelkuchen.adoc[]
 
 <<<
