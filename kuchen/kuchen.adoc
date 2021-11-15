@@ -66,11 +66,27 @@ include::erdbeer_basilikum_torte.adoc[]
 
 <<<
 
+include::erdbeer-streuselkuchen.adoc[]
+
+<<<
+
+include::erdnuss-karamell-kuchen.adoc[]
+
+<<<
+
 include::fanta_apfelkuchen.adoc[]
 
 <<<
 
 include::faule_weiber_kuchen.adoc[]
+
+<<<
+
+include::gateau_basque.adoc[]
+
+<<<
+
+include::gedeckter_apfelkuchen.adoc[]
 
 <<<
 
