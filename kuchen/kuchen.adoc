@@ -98,6 +98,10 @@ include::himbeer_kokos_kuchen.adoc[]
 
 <<<
 
+include::himbeer-streusel-kuchen.adoc[]
+
+<<<
+
 include::kaesekuchen.adoc[]
 
 <<<
@@ -110,6 +114,14 @@ include::kirsch_mandel_kuchen.adoc[]
 
 <<<
 
+include::knusper_cheesecake.adoc[]
+
+<<<
+
+include::kokos_kirsch_kuchen.adoc[]
+
+<<<
+
 include::kokoskuchen.adoc[]
 
 <<<
@@ -119,6 +131,10 @@ include::marmorkuchen.adoc[]
 <<<
 
 include::milchreiskuchen.adoc[]
+
+<<<
+
+include::mini_kaesekuchen.adoc[]
 
 <<<
 
