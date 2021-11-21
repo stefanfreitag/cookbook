@@ -2,11 +2,31 @@
 
 :leveloffset: +1
 
+include::vegetarisch/brokkolicremesuppe.adoc[]
+
+<<<
+
+include::vegetarisch/bunte_gemuesesuppe_mit_buchstabennudeln.adoc[]
+
+<<<
+
+include::vegetarisch/cremige_petersiliensuppe.adoc[]
+
+<<<
+
 include::vegetarisch/fruchtige_kuerbissuppe.adoc[]
 
 <<<
 
 include::vegetarisch/hoellische_kuerbissuppe.adoc[]
+
+<<<
+
+include::vegetarisch/indische_kokos_tomatensuppe.adoc[]
+
+<<<
+
+include::vegetarisch/italienische_gemuesesuppe.adoc[]
 
 <<<
 
