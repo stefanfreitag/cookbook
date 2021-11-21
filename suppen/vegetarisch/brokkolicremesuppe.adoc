@@ -1,0 +1,33 @@
+= Brokkolicremesuppe
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::brokkolicremesuppe.jpg[Brokkolicremesuppe,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Zubereitung: ca. 15 Minuten
+* Kochen: ca. 45 Minuten
+* Für 8 Personen
+|===
+
+== Zutaten
+
+* 3 Zwiebeln
+* 300 g Kartoffeln
+* 1,5 l Brühe
+* 1,5 kg Brokkoli
+* 500 ml Sahne
+* 1 Pck. Mandelblättchen
+* Muskat
+* Öl
+
+== Zubereitung
+
+- Zwiebeln und Kartoffeln putzen, in Stücke schneiden, in wenig Öl
+glasig, aber nicht zu braun werden lassen. Mit Brühe auffüllen, zum
+Kochen bringen und den gut geputzten und in kleine Stücke geschnittenen
+Brokkoli zufügen. Ca. 45 Minuten kochen lassen.
+- Wenn alles gar ist, mit dem Pürierstab mixen. Sahne einrühren, mit den
+Muskat, Salz und Pfeffer abschmecken. Nochmals aufkochen lassen und kurz
+vor dem Servieren mit dem Mixstab noch einmal schaumig aufschlagen.
+Mandelblättchen in einer trockenen Pfanne rösten und kurz vor dem
+Servieren überstreuen.
