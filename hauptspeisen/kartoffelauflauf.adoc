@@ -1,0 +1,38 @@
+= Kartoffelauflauf
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::Kartoffelauflauf.jpg[Kartoffelauflauf,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Vorbereitung: ca. 10 Minuten
+* Zubereitung: ca. 15 Minuten
+* Für 4 Portion
+|===
+
+== Zutaten
+
+* 2 Möhren
+* 1 Zucchini
+* 1 Stange Lauch
+* 600 g gekochte Kartoffeln, vorwiegend festkochend
+* 50 g gekochter Schinken
+* 2 Pck. Bechamel-Sauce
+* 2 Eier
+* 1 EL gehackte Petersilie
+* 1 EL gehackter Majoran
+* 100 g geriebener Käse
+
+== Zubereitung
+
+- Das Gemüse putzen und waschen. Die Möhren schälen und in Scheiben
+schneiden. Den Lauch in Ringe schneiden. Die Zucchini längs halbieren,
+quer in Scheiben teilen. Die Möhren vier Minuten in Salzwasser kochen.
+Nach drei Minuten Lauch und Zucchini hinzufügen. Das Gemüse abgießen,
+kalt abschrecken und gründlich abtropfen lassen. Die Kartoffeln in
+Spalten schneiden, den Schinken würfeln.
+- Den Backofen auf 225° Celsius vorheizen. Die Sauce nach Packungsangabe
+zubereiten, mit den Eiern und Kräutern verrühren. Die Kartoffeln mit dem
+Gemüse und dem Schinken mischen. Den Mix mit Salz und Pfeffer würzen.
+- Eine Auflaufform einfetten, die Gemüsemischung einfüllen und die Sauce
+darüber gießen. Alles mit Käse bestreuen. Den Auflauf für ca. 15 Minuten
+in den Ofen schieben.

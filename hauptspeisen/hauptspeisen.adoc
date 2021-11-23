@@ -42,8 +42,11 @@ include::gnocchi_mit_wurstspiessen.adoc[]
 
 <<<
 
-include::vegetarisch/one_pot_pasta.adoc[]
+include::kartoffelauflauf.adoc[]
 
+<<<
+
+include::vegetarisch/one_pot_pasta.adoc[]
 
 <<<
 

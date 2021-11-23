@@ -1,0 +1,29 @@
+= Tiramisu
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::tiramisu.jpg[Tiramisu,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Zubereitung: ca. 20 Minuten
+* Ruhezeit: ca. 1 Stunde
+|===
+
+
+== Zutaten
+
+* 100 g Puderzucker
+* 4 Eigelb
+* 2 Eiweiß
+* 2 cl Amaretto
+* 2 Tassen starker Kaffee oder Espresso
+* 500 g Mascarpone
+* 250 g Löffelbiskuits
+* Kakaopulver
+
+== Zubereitung
+
+- Eigelb, Puderzucker, Mascarpone und Amaretto cremig rühren. Das Eiweiß
+steif schlagen und vorsichtig unterheben. Die Löffelbiskuits mit dem
+Espresso/starken Kaffee tränken oder nach Geschmack auch nur einpinseln.
+4 Lagen Schichten, begonnen mit Biskuits, Mascarponecreme, Biskuits und
+wieder Mascarponecreme. Mit Kakao dick bestäuben und kühl stellen.
