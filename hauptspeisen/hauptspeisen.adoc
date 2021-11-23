@@ -18,11 +18,35 @@ include::bauerntopf.adoc[]
 
 <<<
 
+include::vegetarisch/blumenkohl_auflauf.adoc[]
+
+<<<
+
+include::vegetarisch/blumenkohl_auflauf_2.adoc[]
+
+<<<
+
+include::vegetarisch/blumenkohl_gratin.adoc[]
+
+<<<
+
+include::vegetarisch/bratnudeln_takeaway.adoc[]
+
+<<<
+
 include::vegetarisch/brokkoli_feta_pie.adoc[]
 
 <<<
 
 include::bubble_up_pizza.adoc[]
+
+<<<
+
+include::vegetarisch/chili_sin_carne.adoc[]
+
+<<<
+
+include::vegetarisch/couscous_gemuese_curry.adoc[]
 
 <<<
 
