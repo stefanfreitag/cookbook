@@ -50,6 +50,26 @@ include::vegetarisch/couscous_gemuese_curry.adoc[]
 
 <<<
 
+include::vegetarisch/cremiger_nudelauflauf.adoc[]
+
+<<<
+
+include::vegetarisch/deftiger_knoedelauflauf.adoc[]
+
+<<<
+
+include::vegetarisch/enchiladas_de_queso.adoc[]
+
+<<<
+
+include::vegetarisch/farfalle_mit_mozzarella_und_pinienkernen.adoc[]
+
+<<<
+
+include::vegetarisch/fruehlingsrollen_mit_sprossen.adoc[]
+
+<<<
+
 include::vegetarisch/gebackener_gemuese_couscous.adoc[]
 
 <<<
