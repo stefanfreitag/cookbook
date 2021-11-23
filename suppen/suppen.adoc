@@ -54,7 +54,15 @@ include::vegetarisch/lauchsuppe.adoc[]
 
 <<<
 
+include::vegetarisch/maronen_kartoffel_sueppchen.adoc[]
+
+<<<
+
 include::vegetarisch/paprika_kichererbsen_suppe.adoc[]
+
+<<<
+
+include::vegetarisch/rote_linsensuppe_mit_minz_joghurt.adoc[]
 
 <<<
 
@@ -63,6 +71,10 @@ include::vegetarisch/rote_zwiebelrahmsuppe.adoc[]
 <<<
 
 include::vegetarisch/spinatcremesuppe.adoc[]
+
+<<<
+
+include::vegetarisch/tomatensuppe_mit_frittiertem_basilikum.adoc[]
 
 <<<
 

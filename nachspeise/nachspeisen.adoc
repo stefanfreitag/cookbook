@@ -2,6 +2,19 @@
 
 :leveloffset: +1
 
+include::beeren_panna_cotta.adoc[]
+
+<<<<
+
+include::bienenstich_apfel.adoc[]
+
+<<<<
+
+include::french_toast.adoc[]
+
+<<<<
+
+
 include::fruchtiges_tiramisu.adoc[]
 
 <<<<
