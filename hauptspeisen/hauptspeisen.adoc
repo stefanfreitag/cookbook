@@ -42,8 +42,35 @@ include::gnocchi_mit_wurstspiessen.adoc[]
 
 <<<
 
-include::vegetarisch/one_pot_pasta.adoc[]
+include::kartoffelauflauf.adoc[]
 
+<<<
+
+include::kohlrabi_eintopf.adoc[]
+
+<<<
+
+include:kuerbis_hack_auflauf.adoc[]
+
+<<<
+
+include:lachstorte.adoc[]
+
+<<<
+
+include:lasagne.adoc[]
+
+<<<
+
+include:linseneintopf_mit_wuerstchen.adoc[]
+
+<<<
+
+include:maultaschen_gratin.adoc[]
+
+<<<
+
+include::vegetarisch/one_pot_pasta.adoc[]
 
 <<<
 
@@ -52,6 +79,10 @@ include::vegetarisch/one_pot_pasta_kokosmilch_curry.adoc[]
 <<<
 
 include::one_pot_swedish_meatballs.adoc[]
+
+<<<
+
+include::paprika_pasta_mit_mozzarella.adoc[]
 
 <<<
 
@@ -68,6 +99,10 @@ include::vegetarisch/salatfladen_mit_gorgonzola.adoc[]
 <<<
 
 include::spaghetti_mit_tomaten_thunfisch_sahne_sosse.adoc[]
+
+<<<
+
+include::spargeltorte_gruen_weiss.adoc[]
 
 <<<
 
@@ -104,5 +139,9 @@ include::thunfisch_nudel_auflauf.adoc[]
 <<<
 
 include::vegetarisch/tomatenrisotto.adoc[]
+
+<<<
+
+include::wuerstel_burger.adoc[]
 
 :leveloffset: -1

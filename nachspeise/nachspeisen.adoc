@@ -2,7 +2,27 @@
 
 :leveloffset: +1
 
+include::beeren_panna_cotta.adoc[]
+
+<<<<
+
+include::bienenstich_apfel.adoc[]
+
+<<<<
+
+include::erdbeerpizza_mit_basilikum.adoc[]
+
+<<<<
+
+include::french_toast.adoc[]
+
+<<<<
+
 include::fruchtiges_tiramisu.adoc[]
+
+<<<<
+
+include::gewuerz_schoko_mousse.adoc[]
 
 <<<<
 
@@ -22,6 +42,19 @@ include::rhabarber_pudding.adoc[]
 
 <<<<
 
+include::suesse_beeren_lasagne.adoc[]
+
+<<<<
+
 include::suesse_wurst.adoc[]
+
+<<<<
+
+include::tiramisu.adoc[]
+
+<<<<
+
+include::vollkorn_nuss_granola.adoc[]
+
 
 :leveloffset: -1
