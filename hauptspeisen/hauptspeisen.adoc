@@ -70,15 +70,43 @@ include::vegetarisch/fruehlingsrollen_mit_sprossen.adoc[]
 
 <<<
 
-include::vegetarisch/gebackener_gemuese_couscous.adoc[]
-
-<<<
-
 include::vegetarisch/fladenbrot_pizza.adoc[]
 
 <<<
 
 include::vegetarisch/fladenbrot_pizza_caprese.adoc[]
+
+<<<
+
+include::vegetarisch/gebackene_gemuese_reis_pfanne.adoc[]
+
+<<<
+
+include::vegetarisch/gebackener_gemuese_couscous.adoc[]
+
+<<<
+
+include::vegetarisch/gemuese_frittata.adoc[]
+
+<<<
+
+include::vegetarisch/gemuesecurry_mit_penne.adoc[]
+
+<<<
+
+include::vegetarisch/gemuesepfanne_mit_feta.adoc[]
+
+<<<
+
+include::vegetarisch/gemuesesauce_mit_couscous.adoc[]
+
+<<<
+
+include::vegetarisch/gnocchi_a_la_ratatouille.adoc[]
+
+<<<
+
+include::vegetarisch/gnocchi_mit_gratiniertem_ziegenkaese.adoc[]
 
 <<<
 

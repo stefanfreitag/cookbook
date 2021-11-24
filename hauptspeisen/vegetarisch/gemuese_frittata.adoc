@@ -1,0 +1,32 @@
+= Gemüse-Frittata
+
+i[cols="1,1", frame="none", grid="none"]
+|===
+a|image::gemuese_frittata.jpg[Gemüse-Frittata,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Zubereitung: ca. 15 Minuten
+* Backzeit: ca. 20 Minuten
+* Pro Portion: ca. 345 kcal
+* Für 4 Portionen
+|===
+
+== Zutaten
+
+* 1 Packung TK-Gemüse-Mischung (300 g)
+* 2 kleine Zwiebeln
+* 6 Eier
+* 100 ml Milch
+* Paprikapulver
+* 2 EL Öl
+* 1 Glas Fetawürfel (Abtropfgewicht 150 g)
+
+== Zubereitung
+
+- Das Gemüse auftauen lassen. Den Backofen auf 200° Celsius (Umluft 180°
+Celsius) vorheizen. Die Zwiebeln abziehen und fein würfeln. Eier und
+Milch verrühren, mit Salz, Pfeffer und Paprikapulver würzen.
+- Das Öl in einer ofenfesten Pfanne erhitzen, Zwiebelwürfel und Gemüse
+darin 10 Minuten anbraten.
+- Den Ei-Mix über das Gemüse gießen, die Feta-Würfel darüberstreuen.
+Frittata im Ofen in ca. 20 Minuten stocken lassen. Aus dem Ofen nehmen,
+in Stücke schneiden und servieren.
