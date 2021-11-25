@@ -110,6 +110,10 @@ include::vegetarisch/gnocchi_mit_gratiniertem_ziegenkaese.adoc[]
 
 <<<
 
+include::vegetarisch/gnocchi_mit_tomaten_und_blattspinat.adoc[]
+
+<<<
+
 include::gnocchi_mit_wurstspiessen.adoc[]
 
 <<<
@@ -118,11 +122,35 @@ include::kartoffelauflauf.adoc[]
 
 <<<
 
+include::vegetarisch/kartoffel_brokkoli_gratin.adoc[]
+
+<<<
+
+include::vegetarisch/kartoffel_schale.adoc[]
+
+<<<
+
+include::vegetarisch/kartoffel_tortilla.adoc[]
+
+<<<
+
+include::vegetarisch/kartoffelgratin_mit_parmesan.adoc[]
+
+<<<
+
 include::kohlrabi_eintopf.adoc[]
 
 <<<
 
+include::vegetarisch/kreolischer_linseneintopf_mit_paprika.adoc[]
+
+<<<
+
 include:kuerbis_hack_auflauf.adoc[]
+
+<<<
+
+include:kuerbis_kaese_tarte.adoc[]
 
 <<<
 
