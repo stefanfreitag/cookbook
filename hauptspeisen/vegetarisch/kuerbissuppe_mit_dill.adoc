@@ -1,0 +1,30 @@
+= Kürbissuppe mit Dill
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::kuerbissuppe_mit_dill.jpg[Kürbissuppe mit Dill,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Zubereitung: ca. 25 Minuten
+* Für 4 Personen
+|===
+
+== Zutaten
+
+* 700 g Hokkaido-Kürbis
+* 1 große Zwiebel
+* 2 EL Sonnenblumenöl
+* 1 l Gemüsebrühe
+* 1 Bund Dill
+* Salz
+* Pfeffer
+* 2 EL saure Sahne
+
+== Zubereitung
+
+- Den Kürbis waschen, putzen und grob würfeln. Die Zwiebel schälen und
+klein schneiden. Die Zwiebel- und Kürbisstücke in einem Topf mit Öl
+glasig braten. Die Brühe zugießen, alles aufkochen und 10 Minuten
+köcheln lassen.
+- Den Dill waschen, trocken schütteln und klein schneiden. Die Suppe mit
+dem Pürierstab pürieren und mit Salz, Pfeffer und der sauren Sahne
+abschmecken. Vor dem Servieren den Dill leicht untermischen.

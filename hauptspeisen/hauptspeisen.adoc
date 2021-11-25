@@ -154,6 +154,10 @@ include:kuerbis_kaese_tarte.adoc[]
 
 <<<
 
+include::vegetarisch/kuerbissuppe_mit_dill.adoc[]
+
+<<<
+
 include:lachstorte.adoc[]
 
 <<<
@@ -163,6 +167,18 @@ include:lasagne.adoc[]
 <<<
 
 include:linseneintopf_mit_wuerstchen.adoc[]
+
+<<<
+
+include::vegetarisch/linsen_lasagne.adoc[]
+
+<<<
+
+include::vegetarisch/linsen_mangold_curry.adoc[]
+
+<<<
+
+include::vegetarisch/linsencurry.adoc[]
 
 <<<
 
