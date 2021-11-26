@@ -226,6 +226,10 @@ include::vegetarisch/ofen_roesti_mit_rosenkohl.adoc[]
 
 <<<
 
+include::vegetarisch/omelett_mit_pilzen.adoc[]
+
+<<<
+
 include::vegetarisch/one_pot_pasta.adoc[]
 
 <<<
@@ -239,6 +243,22 @@ include::one_pot_swedish_meatballs.adoc[]
 <<<
 
 include::paprika_pasta_mit_mozzarella.adoc[]
+
+<<<
+
+include::vegetarisch/party_wraps.adoc[]
+
+<<<
+
+include::vegetarisch/pasta_paella.adoc[]
+
+<<<
+
+include::vegetarisch/pikante_feta_strudel.adoc[]
+
+<<<
+
+include::vegetarisch/polenta_schnitten_auf_zucchini.adoc[]
 
 <<<
 

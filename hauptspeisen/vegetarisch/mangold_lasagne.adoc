@@ -11,21 +11,28 @@ a|.Allgemeines
 
 == Zutaten
 
-* 1 mittelgroßer Kopf Mangold
-* 12 Lasagneplatten (vorgekocht)
-* 3 Knoblauchzehen
-* 1 gelbe Paprikaschote
-* 200 g Schafskäse
-* 1 EL Pinienkerne
-* 500 ml Tomaten, passiert
-* 2 EL Tomatenmark
-* 8 EL Olivenöl
-* 1 TL Thymian, getrocknet
-* 50 g Parmesan, gerieben
-* Salz
-* Zucker
-* Pfeffer
-* Muskat
+[cols="1,1", frame="none", grid="none"]
+|===
+
+| 1 mittelgroßer Kopf Mangold
+| 12 Lasagneplatten (vorgekocht)
+
+| 3 Knoblauchzehen
+| 1 gelbe Paprikaschote
+
+| 200 g Schafskäse
+| 1 EL Pinienkerne
+
+| 500 ml Tomaten, passiert
+| 2 EL Tomatenmark
+
+| 8 EL Olivenöl
+| 1 TL Thymian, getrocknet
+
+| 50 g Parmesan, gerieben
+| Muskat
+
+|===
 
 == Zubereitung
 

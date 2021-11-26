@@ -10,25 +10,40 @@ a|.Allgemeines
 
 == Zutaten
 
-* 175 g Bulgur
-* 275 ml Tomatensaft
-* 3 Zwiebeln
-* 3 große Knoblauchzehen
-* 200 g Möhren
-* 150 g Champignons
-* 2 Paprikaschoten (1 rot, 1 gelb)
-* 50 g getrocknete Tomaten (in Öl eingelegt)
-* 2 EL Olivenöl
-* 2 EL Chilipulver
-* 1 EL gemahlener Kreuzkümmel
-* 3 EL Tomatenmark
-* 400 ml Gemüsebrühe
-* 800 g geschälte Tomaten (Dose)
-* 425 g Kidneybohnen (Dose)
-* 425 g weiße Bohnen (Dose)
-* 1 Bund Koriander
-* 125 g saure Sahne
-* Cayennepfeffer
+[cols="1,1", frame="none", grid="none"]
+|===
+
+| 175 g Bulgur
+| 275 ml Tomatensaft
+
+| 3 Zwiebeln
+| 3 große Knoblauchzehen
+
+| 200 g Möhren
+| 150 g Champignons
+
+| 2 Paprikaschoten (1 rot, 1 gelb)
+| 50 g getrocknete Tomaten (in Öl eingelegt)
+
+| 2 EL Olivenöl
+| 2 EL Chilipulver
+
+| 1 EL gemahlener Kreuzkümmel
+| 3 EL Tomatenmark
+
+| 400 ml Gemüsebrühe
+| 800 g geschälte Tomaten (Dose)
+
+| 425 g Kidneybohnen (Dose)
+| 425 g weiße Bohnen (Dose)
+
+| 1 Bund Koriander
+| 125 g saure Sahne
+
+| Cayennepfeffer
+
+|===
+
 
 == Zubereitung
 
