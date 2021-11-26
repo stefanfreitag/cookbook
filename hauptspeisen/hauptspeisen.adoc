@@ -146,11 +146,11 @@ include::vegetarisch/kreolischer_linseneintopf_mit_paprika.adoc[]
 
 <<<
 
-include:kuerbis_hack_auflauf.adoc[]
+include::kuerbis_hack_auflauf.adoc[]
 
 <<<
 
-include:kuerbis_kaese_tarte.adoc[]
+include::vegetarisch/kuerbis_kaese_tarte.adoc[]
 
 <<<
 
@@ -158,15 +158,15 @@ include::vegetarisch/kuerbissuppe_mit_dill.adoc[]
 
 <<<
 
-include:lachstorte.adoc[]
+include::lachstorte.adoc[]
 
 <<<
 
-include:lasagne.adoc[]
+include::lasagne.adoc[]
 
 <<<
 
-include:linseneintopf_mit_wuerstchen.adoc[]
+include::linseneintopf_mit_wuerstchen.adoc[]
 
 <<<
 
@@ -182,7 +182,47 @@ include::vegetarisch/linsencurry.adoc[]
 
 <<<
 
-include:maultaschen_gratin.adoc[]
+include::vegetarisch/mac_and_cheese.adoc[]
+
+<<<
+
+include::vegetarisch/mangold_lasagne_mit_schafskaese.adoc[]
+
+<<<
+
+include::vegetarisch/mangold_lasagne.adoc[]
+
+<<<
+
+include::maultaschen_gratin.adoc[]
+
+<<<
+
+include::vegetarisch/milchreis.adoc[]
+
+<<<
+
+include::vegetarisch/mini_pasta_mit_rahmspinat.adoc[]
+
+<<<
+
+include::vegetarisch/moehrenrisotto.adoc[]
+
+<<<
+
+include::vegetarisch/nudelauflauf_mit_brokkoli.adoc[]
+
+<<<
+
+include::vegetarisch/nudelauflauf_mit_zucchini.adoc[]
+
+<<<
+
+include::vegetarisch/nudelomlett_mit_pilzen.adoc[]
+
+<<<
+
+include::vegetarisch/ofen_roesti_mit_rosenkohl.adoc[]
 
 <<<
 
