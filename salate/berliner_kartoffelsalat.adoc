@@ -11,19 +11,28 @@ a|.Allgemeines
 
 == Zutaten
 
-* 1 kg Pellkartoffeln, vorwiegend festkochend
-* 2 TL Senf, mittelscharf
-* 3 TL Zucker
-* 100 ml Gurkenflüssigkeit
-* 50 ml Essig (Weinessig)
-* 100 ml Öl (Distel- oder Sonnenblumenöl)
-* 1 Apfel, säuerlich
-* 4 mittelgroße Gewürzgurken
-* 1 große Zwiebel
-* 1 Zehe Knoblauch, nach Belieben
-* 1/2 Bund Frühlingszwiebeln oder Schnittlauch
-* Salz und Pfeffer
-* Kümmel
+[cols="1,1", frame="none", grid="none"]
+|===
+
+| 1 kg Pellkartoffeln, vorwiegend festkochend
+| 2 TL Senf, mittelscharf
+
+| 3 TL Zucker
+| 100 ml Gurkenflüssigkeit
+
+| 50 ml Essig (Weinessig)
+| 100 ml Öl (Distel- oder Sonnenblumenöl)
+
+| 1 Apfel, säuerlich
+| 4 mittelgroße Gewürzgurken
+
+| 1 große Zwiebel
+| 1 Zehe Knoblauch, nach Belieben
+
+| 1/2 Bund Frühlingszwiebeln
+| Kümmel
+|===
+
 
 == Zubereitung
 
