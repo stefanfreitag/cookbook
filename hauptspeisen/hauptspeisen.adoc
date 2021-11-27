@@ -262,15 +262,39 @@ include::vegetarisch/polenta_schnitten_auf_zucchini.adoc[]
 
 <<<
 
+include::vegetarisch/ratatouille.adoc[]
+
+<<<
+
+include::vegetarisch/reis_mit_gartengemuese.adoc[]
+
+<<<
+
+include::vegetarisch/rheinischer_moehrentopf.adoc[]
+
+<<<
+
 include::vegetarisch/rosenkohlauflauf.adoc[]
+
+<<<
+
+include::vegetarisch/rosmarin_frischkaese_cake.adoc[]
 
 <<<
 
 include::vegetarisch/rosmarin_risotto.adoc[]
 
 <<<
+
+include::vegetarisch/rote_linsen_curry_mit_suesskartoffeln.adoc[]
+
+<<<
     
 include::vegetarisch/salatfladen_mit_gorgonzola.adoc[]
+
+<<<
+
+include::vegetarisch/schupfnudel_frittata.adoc[]
 
 <<<
 
