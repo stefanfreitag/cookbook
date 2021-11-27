@@ -298,6 +298,18 @@ include::vegetarisch/schupfnudel_frittata.adoc[]
 
 <<<
 
+include::vegetarisch/snack_lasagne.adoc[]
+
+<<<
+
+include::vegetarisch/spaghetti_napoli.adoc[]
+
+<<<
+
+include::vegetarisch/spaghettitorte.adoc[]
+
+<<<
+
 include::spaghetti_mit_tomaten_thunfisch_sahne_sosse.adoc[]
 
 <<<
@@ -307,6 +319,14 @@ include::spargeltorte_gruen_weiss.adoc[]
 <<<
 
 include::vegetarisch/spicy_thai_noodles.adoc[]
+
+<<<
+
+include::vegetarisch/spinat_kaese_cannelloni.adoc[]
+
+<<<
+
+include::vegetarisch/spinat_ricotta_toertchen.adoc[]
 
 <<<
 
