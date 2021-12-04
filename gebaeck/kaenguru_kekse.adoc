@@ -1,0 +1,29 @@
+= Känguru-Kekse
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::kaenguru_kekse.jpg[Känguru-Kekse,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Zubereitung: ca. 30 Minuten
+* Backen: ca. 20 Minuten je Blech
+* Für ca. 50 Stück
+|===
+
+== Zutaten
+
+* 250 g Butter
+* 180 g Zucker
+* 2 Eier
+* 1 Pck. Vanillezucker
+* 350 g Mehl
+* 1/2 Pck. Backpulver
+* 5 Tassen Cornflakes
+* 100 g gehackte Schokolade
+* 125 g Rosinen
+
+== Zubereitung
+
+- Aus den ersten 6 Zutaten einen Rührteig herstellen, anschließend die
+restlichen Zutaten vorsichtig unterheben. Auf ein gefettetes Backblech,
+mit Abstand, walnussgroße Bällchen setzen und in 15 - 20 Minuten bei
+180° Celsius goldbraun backen.
