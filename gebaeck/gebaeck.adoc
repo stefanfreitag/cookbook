@@ -46,6 +46,46 @@ include::cranberry_cookies.adoc[]
 
 <<<
 
+include::flachswickel.adoc[]
+
+<<<
+
+include::fruchtige_blaetterteig_schnecken.adoc[]
+
+<<<
+
+include::haferflocken_johannisbeer_kekse.adoc[]
+
+<<<
+
+include::heidesand.adoc[]
+
+<<<
+
+include::kaenguru_kekse.adoc[]
+
+<<<
+
+include::kekslollies.adoc[]
+
+<<<
+
+include::kirschwaffeln.adoc[]
+
+<<<
+
+include::konfetti_cookies.adoc[]
+
+<<<
+
+include::luebecker_marzipan_makronen.adoc[]
+
+<<<
+
+include::macadamia_cookies.adoc[]
+
+<<<
+
 include::nussecken.adoc[]
 
 <<<
