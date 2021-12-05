@@ -46,6 +46,10 @@ include::cranberry_cookies.adoc[]
 
 <<<
 
+include::flachswickel.adoc[]
+
+<<<
+
 include::fruchtige_blaetterteig_schnecken.adoc[]
 
 <<<
@@ -71,6 +75,14 @@ include::kirschwaffeln.adoc[]
 <<<
 
 include::konfetti_cookies.adoc[]
+
+<<<
+
+include::luebecker_marzipan_makronen.adoc[]
+
+<<<
+
+include::macadamia_cookies.adoc[]
 
 <<<
 

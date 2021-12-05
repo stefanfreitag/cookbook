@@ -142,4 +142,12 @@ include::quark_streuselkuchen_mit_kirschen.adoc[]
 
 <<<
 
+include::zitronenkuchen.adoc[]
+
+<<<
+
+include::zitronenkuchen_2.adoc[]
+
+<<<
+
 :leveloffset: -1
