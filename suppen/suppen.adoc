@@ -86,4 +86,8 @@ include::vegetarisch/tomatensuppe.adoc[]
 
 <<<
 
+include::vegetarisch/winterliche_maronensuppe.adoc[]
+
+<<<
+
 :leveloffset: -1
