@@ -110,6 +110,10 @@ include::vegetarisch/gnocchi_mit_gratiniertem_ziegenkaese.adoc[]
 
 <<<
 
+include::vegetarisch/gnocchi_in_spinatkaesesosse.adoc[]
+
+<<<
+
 include::vegetarisch/gnocchi_mit_tomaten_und_blattspinat.adoc[]
 
 <<<
