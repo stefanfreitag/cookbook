@@ -26,6 +26,10 @@ include::gewuerz_schoko_mousse.adoc[]
 
 <<<<
 
+include::kinder_tiramisu.adoc[]
+
+<<<<
+
 include::quarkauflauf_mit_beeren.adoc[]
 
 <<<<
