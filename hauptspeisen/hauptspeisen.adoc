@@ -66,6 +66,10 @@ include::vegetarisch/farfalle_mit_mozzarella_und_pinienkernen.adoc[]
 
 <<<
 
+include::vegetarisch/franzoesische_kartoffelsuppe.adoc[]
+
+<<<
+
 include::vegetarisch/fruehlingsrollen_mit_sprossen.adoc[]
 
 <<<
