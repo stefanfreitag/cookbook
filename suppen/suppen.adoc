@@ -82,6 +82,10 @@ include::vegetarisch/tomatensuppe_mit_reis.adoc[]
 
 <<<
 
+include::vegetarisch/tomatensuppe_mit_reis_ii.adoc[]
+
+<<<
+
 include::vegetarisch/tomatensuppe.adoc[]
 
 <<<
