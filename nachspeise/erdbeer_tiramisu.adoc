@@ -1,12 +1,12 @@
 = Erdbeer-Tiramisu
 
-* Zubereitung: ca. 30 Minuten
-* Ruhezeit: mindestens 2 Stunden
+- Zubereitung: ca. 30 Minuten
+- Ruhezeit: mindestens 2 Stunden
 - Für 6 Portionen
 
 == Zutaten
 
-- Erdbeeren
+- 500 g Erdbeeren
 - 3 EL Zucker
 - 250 g Mascarpone
 - 250 g Magerquark
