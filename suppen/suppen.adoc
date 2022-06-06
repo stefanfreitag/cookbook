@@ -38,6 +38,10 @@ include::vegetarisch/kartoffelsuppe_mit_gemueseeinlage.adoc[]
 
 <<<
 
+include::kartoffelsuppe_mit_wuerstchen.adoc[]
+
+<<<
+
 include::gulaschsuppe.adoc[]
 
 <<<
