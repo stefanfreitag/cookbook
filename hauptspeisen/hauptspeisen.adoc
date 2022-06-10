@@ -302,6 +302,10 @@ include::vegetarisch/salatfladen_mit_gorgonzola.adoc[]
 
 <<<
 
+include::vegetarisch/schnelle_kaesespaetzle.adoc[]
+
+<<<
+
 include::vegetarisch/schupfnudel_frittata.adoc[]
 
 <<<
@@ -327,6 +331,10 @@ include::spargeltorte_gruen_weiss.adoc[]
 <<<
 
 include::vegetarisch/spicy_thai_noodles.adoc[]
+
+<<<
+
+include::vegetarisch/spinat_auflauf_mit_nudeln.adoc[]
 
 <<<
 
