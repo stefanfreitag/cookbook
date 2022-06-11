@@ -146,11 +146,31 @@ include::quark_streuselkuchen_mit_kirschen.adoc[]
 
 <<<
 
+include::schoko_quark_kuchen.adoc[]
+
+<<<
+
+include::steffis_apfel_aprikosen_kuchen.adoc[]
+
+<<<
+
+include::torte_tricolore.adoc[]
+
+<<<
+
+include::weisser_hund.adoc[]
+
+<<<
+
 include::zitronenkuchen.adoc[]
 
 <<<
 
 include::zitronenkuchen_2.adoc[]
+
+<<<
+
+include::zitronenschnitten.adoc[]
 
 <<<
 
