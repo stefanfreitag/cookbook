@@ -146,6 +146,18 @@ include::quark_streuselkuchen_mit_kirschen.adoc[]
 
 <<<
 
+include::rote_bete_schokokuchen.adoc[]
+
+<<<
+
+include::saftiger_birnenkuchen.adoc[]
+
+<<<
+
+include::schneller_marmorkuchen.adoc[]
+
+<<<
+
 include::schoko_quark_kuchen.adoc[]
 
 <<<
