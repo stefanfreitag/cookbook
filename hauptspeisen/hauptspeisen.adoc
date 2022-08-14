@@ -374,6 +374,10 @@ include::thunfisch_nudel_auflauf.adoc[]
 
 <<<
 
+include::thunfisch_wrap.adoc[]
+
+<<<
+
 include::vegetarisch/tomatenrisotto.adoc[]
 
 <<<
