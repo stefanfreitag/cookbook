@@ -30,6 +30,10 @@ include::gewuerz_schoko_mousse.adoc[]
 
 <<<<
 
+include::kalter_hund.adoc[]
+
+<<<<
+
 include::kinder_tiramisu.adoc[]
 
 <<<<
