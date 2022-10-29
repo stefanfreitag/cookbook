@@ -206,6 +206,10 @@ include::maultaschen_gratin.adoc[]
 
 <<<
 
+include::mexikanische_enchilada_lasagne.adoc[]
+
+<<<
+
 include::vegetarisch/milchreis.adoc[]
 
 <<<

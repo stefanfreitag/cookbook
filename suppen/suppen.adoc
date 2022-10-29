@@ -18,6 +18,10 @@ include::vegetarisch/fruchtige_kuerbissuppe.adoc[]
 
 <<<
 
+include::gulaschsuppe.adoc[]
+
+<<<
+
 include::vegetarisch/hoellische_kuerbissuppe.adoc[]
 
 <<<
@@ -27,6 +31,10 @@ include::vegetarisch/indische_kokos_tomatensuppe.adoc[]
 <<<
 
 include::vegetarisch/italienische_gemuesesuppe.adoc[]
+
+<<<
+
+include::kaese_lauch_suppe_mit_hackfleisch.adoc[]
 
 <<<
 
@@ -42,11 +50,7 @@ include::kartoffelsuppe_mit_wuerstchen.adoc[]
 
 <<<
 
-include::gulaschsuppe.adoc[]
-
-<<<
-
-include::kaese_lauch_suppe_mit_hackfleisch.adoc[]
+include::vegetarisch/kuerbis_moehren_suppe.adoc[]
 
 <<<
 
