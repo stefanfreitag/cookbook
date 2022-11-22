@@ -35,6 +35,10 @@ include::ebly_salat.adoc[]
 
 <<<
 
+include::eier_kartoffelsalat.adoc[]
+
+<<<
+
 include::italienischer_nudelsalat_mit_pesto.adoc[]
 
 <<<
