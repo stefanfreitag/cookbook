@@ -66,6 +66,10 @@ include::vegetarisch/farfalle_mit_mozzarella_und_pinienkernen.adoc[]
 
 <<<
 
+include::vegetarisch/flammkuchen_mit_apfel_und_ziegenkaese.adoc[]
+
+<<<
+
 include::vegetarisch/franzoesische_kartoffelsuppe.adoc[]
 
 <<<
@@ -247,6 +251,10 @@ include::vegetarisch/one_pot_pasta.adoc[]
 <<<
 
 include::vegetarisch/one_pot_pasta_kokosmilch_curry.adoc[]
+
+<<<
+
+include::vegetarisch/one_pot_thai_pasta_mit_gemuese_und_erdnuessen.adoc[]
 
 <<<
 
