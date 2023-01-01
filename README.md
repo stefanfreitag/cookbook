@@ -21,11 +21,10 @@ A collection of cooking and baking recipes
   ```sh
   pandoc -f html -t asciidoc <filename>
   ```
-  
+
 - Compress the pdf
 
   ```sh
    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook \
   -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf book.pdf
   ```
-  

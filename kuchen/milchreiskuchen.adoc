@@ -6,14 +6,14 @@ a|image::milchreiskuchen.jpg[Milchreiskuchen,width=800,height=600,pdfwidth=80%,a
 a|.Allgemeines
 - Zubereitung: ca. 25 Minuten
 - Backen: ca. 45 Minuten
-- Springform mit 26 cm Durchmesser   
+- Springform mit 26 cm Durchmesser
 |===
 
 == Zutaten
-   
+
 === Für den Teig
 
-* 90 g Butter 
+* 90 g Butter
 * 75 g Zucker
 * 1 Pck. Vanillezucker
 * 1 Ei
@@ -35,7 +35,7 @@ a|.Allgemeines
 
 * Für die Füllung das Glas Sauerkirschen abtropfen lassen und auf dem Boden verteilen. Aus Milchreis, Puddingpulver, Milch, Sahne und Zucker einen Milchreispudding kochen und gleichmäßig auf den Kirschen verteilen.
 
-* Circa 45 Minuten bei 200° Celsius (Ober-/Unterhitze) backen. Evtl. nach 
+* Circa 45 Minuten bei 200° Celsius (Ober-/Unterhitze) backen. Evtl. nach
 30 Minuten abdecken.
 
 ---

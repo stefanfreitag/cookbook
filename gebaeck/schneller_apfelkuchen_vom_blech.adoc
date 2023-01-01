@@ -6,7 +6,7 @@ image::../images/schneller_apfelkuchen_vom_blech.jpg[Schneller Apfelkuchen vom B
 * Zubereitung: ca. 25 Minuten
 * Backzeit: ca. 30 Minuten
 * Für 1 Blech
-  
+
 == Zutaten
 
 * 4	Eier

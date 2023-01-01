@@ -309,7 +309,7 @@ include::vegetarisch/rosmarin_risotto.adoc[]
 include::vegetarisch/rote_linsen_curry_mit_suesskartoffeln.adoc[]
 
 <<<
-    
+
 include::vegetarisch/salatfladen_mit_gorgonzola.adoc[]
 
 <<<
@@ -361,19 +361,19 @@ include::vegetarisch/spinat_ricotta_toertchen.adoc[]
 include::vegetarisch/spinat_lasagne.adoc[]
 
 <<<
-    
+
 include::vegetarisch/spitzkohl_curry.adoc[]
 
 <<<
-    
+
 include::strassburger_auflauf.adoc[]
 
 <<<
-    
+
 include::vegetarisch/tomatentarte_mit_ziegenkaese.adoc[]
 
 <<<
-    
+
 include::vegetarisch/tortellini_in_sahnesauce.adoc[]
 
 <<<
