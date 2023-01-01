@@ -6,11 +6,11 @@ a|image::cinnamon_crumble_apple_pie.jpg[Cinnamon Crumble Apple Pie,width=800,hei
 a|.Allgemeines
 - Zubereitung: ca. 45 Minuten
 - Backen: ca. 50 - 60 Minuten
-- Springform mit 26 cm Durchmesser   
+- Springform mit 26 cm Durchmesser
 |===
 
 == Zutaten
-   
+
 === Für den Teig
 
 * 200 g	Mehl

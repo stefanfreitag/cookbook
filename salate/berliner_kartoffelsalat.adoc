@@ -2,7 +2,7 @@
 
 [cols="1,1", frame="none", grid="none"]
 |===
-a|image::../images/berliner_kartoffelsalat.jpg[Berliner Kartoffelsalat,width=800,height=600,pdfwidth=80%,align="center"] 
+a|image::../images/berliner_kartoffelsalat.jpg[Berliner Kartoffelsalat,width=800,height=600,pdfwidth=80%,align="center"]
 a|.Allgemeines
 * Vorbereitung: ca. 40 Minuten
 * Ruhezeit: ca. 4 Stunden

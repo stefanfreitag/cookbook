@@ -6,7 +6,7 @@
 a|image::apfel_streuselkuchen.jpg[Apfel-Streuselkuchen,width=800,height=600,pdfwidth=80%,align="center"]
 a|.Allgemeines
 - Zubereitung: ca. 40 Minuten
-- Backzeit: ca. 45 Minuten   
+- Backzeit: ca. 45 Minuten
 |===
 
 == Zutaten

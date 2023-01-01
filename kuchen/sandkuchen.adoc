@@ -4,9 +4,9 @@ image::../images/sandkuchen.jpg[Sandkuchen ,width=640,height=480]
 
 - Zubereitung: ca. 15 Minuten
 - Backen: ca. 60 Minuten
-   
+
 == Zutaten
-    
+
 - 250 g Butter, zerlassen
 - 200 g Zucker, fein
 - 1 Pck Vanillezucker
@@ -21,7 +21,7 @@ image::../images/sandkuchen.jpg[Sandkuchen ,width=640,height=480]
 == Zubereitung
 
 - Zucker und Vanillezucker in die zerlassene und wieder etwas fest gewordene Butter  geben. So lange rühren, bis Fett und Zucker weißschaumig geworden sind.
-- Nach und nach Eier, Salz und den Zitronenabrieb dazugeben (jedes Ei etwa 2 Minuten unterrühren). 
+- Nach und nach Eier, Salz und den Zitronenabrieb dazugeben (jedes Ei etwa 2 Minuten unterrühren).
 
 - Das mit Speisestärke und Backpulver gemischte und gesiebte Mehl esslöffelweise unterrühren.
 

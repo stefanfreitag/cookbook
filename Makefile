@@ -22,7 +22,7 @@ pdf_images:
   			convert -strip -interlace Plane -gaussian-blur 0.05 -quality 85% -resize 1024x768 images/$$f output_pdf/images/$$f; \
 		fi \
 	done
-	
+
 html_images:
 	mkdir -p docs/images
 	for f in $(shell ls images); do \
@@ -32,4 +32,3 @@ html_images:
   			convert -resize 1024x768 images/$$f docs/images/$$f; \
 		fi \
 	done
-	

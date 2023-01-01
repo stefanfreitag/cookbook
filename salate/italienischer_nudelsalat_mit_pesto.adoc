@@ -2,7 +2,7 @@
 
 [cols="1,1", frame="none", grid="none"]
 |===
-a|image::../images/italienischer_nudelsalat_mit_pesto.jpg[Italienischer Nudelsalat mit Pesto,width=800,height=600,pdfwidth=80%,align="center"] 
+a|image::../images/italienischer_nudelsalat_mit_pesto.jpg[Italienischer Nudelsalat mit Pesto,width=800,height=600,pdfwidth=80%,align="center"]
 a|.Allgemeines
 * Zubereitung: ca. 15 Minuten
 * Für 6 Personen

@@ -6,7 +6,7 @@ a|image::chocolate_cake.jpg[Chocolate Cake,width=800,height=600,pdfwidth=80%,ali
 a|.Allgemeines
 * Zubereitung: ca. 30 Minuten
 * Backen: ca. 30 Minuten
-* Für eine Backform (34 cm x 24 cm)   
+* Für eine Backform (34 cm x 24 cm)
 |===
 
 == Zutaten

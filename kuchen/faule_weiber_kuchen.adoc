@@ -6,11 +6,11 @@ a|image::fauleweiberkuchen.jpg[Faule Weiber-Kuchen,width=800,height=600,pdfwidth
 a|.Allgemeines
 - Zubereitung: ca. 25 Minuten
 - Backen: ca. 50 Minuten
-- Springform mit 26cm Durchmesser   
+- Springform mit 26cm Durchmesser
 |===
 
 == Zutaten
-   
+
 === Für den Teig
 
 * 200 g Mehl

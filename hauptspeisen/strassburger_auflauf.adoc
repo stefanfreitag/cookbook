@@ -2,7 +2,7 @@
 
 [cols="1,1", frame="none", grid="none"]
 |===
-a|image::strassburger_auflauf.jpg[Straßburger Auflauf,width=800,height=600,pdfwidth=80%,align="center"] 
+a|image::strassburger_auflauf.jpg[Straßburger Auflauf,width=800,height=600,pdfwidth=80%,align="center"]
 a|.Allgemeines
 
 - Zubereitung 20 Minuten
@@ -29,9 +29,9 @@ a|.Allgemeines
 
 - Die Nudeln in Salzwasser bissfest garen. Anschließend abschütten.
 
-- Gleichzeitig die in Würfel gehackte Zwiebel in Öl anbraten. Das Hackfleisch dazugeben und ebenfalls anbraten. 
-- Mit Rotwein ablöschen und mit Tomatenmark, Thymian, Cayennepfeffer und Salz abschmecken. 
-- Die Nudeln unterheben und alles in eine gefettete Auflaufform geben. Käse und Sahne darüber verteilen. 
+- Gleichzeitig die in Würfel gehackte Zwiebel in Öl anbraten. Das Hackfleisch dazugeben und ebenfalls anbraten.
+- Mit Rotwein ablöschen und mit Tomatenmark, Thymian, Cayennepfeffer und Salz abschmecken.
+- Die Nudeln unterheben und alles in eine gefettete Auflaufform geben. Käse und Sahne darüber verteilen.
 - Im vorgeheizten Backofen bei 200° Celsius Umluft ca. 25 - 30 Minuten überbacken.
 
 Quelle: https://www.chefkoch.de/rezepte/701911172819472/Strassburger-Auflauf.html
