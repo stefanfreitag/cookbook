@@ -94,6 +94,10 @@ include::vegetarisch/gebackener_gemuese_couscous.adoc[]
 
 <<<
 
+include::vegetarisch/gefuellte_paprika_mit_tomatenrahmsosse.adoc[]
+
+<<<
+
 include::vegetarisch/gemuese_frittata.adoc[]
 
 <<<
