@@ -54,6 +54,10 @@ include::kartoffelsuppe_mit_wuerstchen.adoc[]
 
 <<<
 
+include::vegetarisch/kohlrabisuppe_mit_kartoffeln.adoc[]
+
+<<<
+
 include::vegetarisch/kuerbis_moehren_suppe.adoc[]
 
 <<<
@@ -75,6 +79,10 @@ include::vegetarisch/paprika_kichererbsen_suppe.adoc[]
 <<<
 
 include::vegetarisch/rote_linsensuppe_mit_minz_joghurt.adoc[]
+
+<<<
+
+include::vegetarisch/rote_thai_curry_gemuesesuppe.adoc[]
 
 <<<
 
