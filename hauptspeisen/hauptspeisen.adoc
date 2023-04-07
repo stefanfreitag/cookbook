@@ -66,6 +66,10 @@ include::vegetarisch/farfalle_mit_mozzarella_und_pinienkernen.adoc[]
 
 <<<
 
+include::vegetarisch/faecherkartoffeln_mit_quark.adoc[]
+
+<<<
+
 include::vegetarisch/flammkuchen_mit_apfel_und_ziegenkaese.adoc[]
 
 <<<
