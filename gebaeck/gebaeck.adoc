@@ -46,6 +46,10 @@ include::cranberry_cookies.adoc[]
 
 <<<
 
+include::muffins/fanta_zitronen_muffins.adoc[]
+
+<<<
+
 include::flachswickel.adoc[]
 
 <<<
