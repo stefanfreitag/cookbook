@@ -66,6 +66,10 @@ include::heidesand.adoc[]
 
 <<<
 
+include::muffins/joghurtmuffins_mit_pflaumen.adoc[]
+
+<<<
+
 include::kaenguru_kekse.adoc[]
 
 <<<

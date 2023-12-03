@@ -370,6 +370,10 @@ include::vegetarisch/spinat_lasagne.adoc[]
 
 <<<
 
+include::vegetarisch/spinat_risotto.adoc[]
+
+<<<
+
 include::vegetarisch/spitzkohl_curry.adoc[]
 
 <<<
@@ -379,6 +383,10 @@ include::strassburger_auflauf.adoc[]
 <<<
 
 include::vegetarisch/tomatentarte_mit_ziegenkaese.adoc[]
+
+<<<
+
+include::vegetarisch/tortellini_in_fruchtiger_tomatensahnesauce.adoc[]
 
 <<<
 
