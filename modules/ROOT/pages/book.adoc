@@ -1,0 +1,35 @@
+= Rezepte
+:toc: left
+:toc-title: Inhaltsverzeichnis
+:sectnums:
+:sectnumlevels: 1
+:imagesdir: ../../output_pdf/images
+ifdef::backend-html5[:imagesdir: ./images]
+
+:leveloffset: +1
+
+<<<
+
+xref::salate/salate.adoc[]
+
+<<<
+
+xref::suppen/suppen.adoc[]
+
+<<<
+
+xref::hauptspeisen/hauptspeisen.adoc[]
+
+<<<
+
+xref::kuchen/kuchen.adoc[]
+
+<<<
+
+xref::gebaeck/gebaeck.adoc[]
+
+<<<
+
+xref::nachspeise/nachspeisen.adoc[]
+
+:leveloffset: -1
