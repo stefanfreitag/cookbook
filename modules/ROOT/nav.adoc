@@ -5,8 +5,12 @@ include::partial$nav_salate.adoc[Salate]
 
 include::partial$nav_hauptspeisen.adoc[Hauptspeisen]
 
+include::partial$nav_sossen.adoc[Sossen]
+
 include::partial$nav_suppen.adoc[Suppen]
 
 include::partial$nav_gebaeck.adoc[Gebäck]
 
 include::partial$nav_kuchen.adoc[Kuchen]
+
+include::partial$nav_nachspeisen.adoc[Nachspeisen]
