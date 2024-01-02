@@ -1,0 +1,26 @@
+= Tortellini-Salat "Siciliana"
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::tortellini_salat_siciliana.jpg[Tortellini-Salat Siciliana,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+|===
+
+== Zutaten
+
+* 400 g Tortellini
+* 100 g getrocknete Tomaten (eingelegt)
+* 75 g Rucola
+* 40 g Gran Padano
+* 1 Bund Kerbel
+* Olivenöl
+* Balsamico (hell)
+
+== Zubereitung
+
+- Die Tortellini nach Packungshinweis zubereiten.
+- Die Tomaten abtropfen lassen und längs in feine Streifen schneiden.
+- Rucola putzen und waschen, den Käse hobel und den Kerbel fein
+schneiden.
+- Nach eigenem Geschmack den Balsamico-Essig mit dem Olivenöl, Salz,
+Pfeffer und Zucker verrühren und mit den restlichen Zutaten mischen.
