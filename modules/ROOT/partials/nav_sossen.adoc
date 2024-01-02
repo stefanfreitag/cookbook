@@ -1,0 +1,4 @@
+.Sossen
+
+* xref:sossen/blitz_tomatensosse.adoc[Blitz-Tomatensoße]
+* xref:sossen/vanillesosse.adoc[Vanillesoße]
