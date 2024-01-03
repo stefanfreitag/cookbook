@@ -1,0 +1,10 @@
+.Beilagen
+
+* xref:beilagen/fischfrikadellen.adoc[]
+* xref:beilagen/ofen_frikadellen.adoc[]
+* xref:beilagen/vegetarisch/couscous_frikadellen.adoc[]
+* xref:beilagen/vegetarisch/mexiko_gemuese.adoc[]
+* xref:beilagen/vegetarisch/semmelknoedel.adoc[]
+* xref:beilagen/vegetarisch/spinat_serviettenknoedel.adoc[]
+* xref:beilagen/vegetarisch/ueberbackener_schlemmer_stangensellerie.adoc[]
+* xref:beilagen/vegetarisch/wok_gemuese.adoc[]

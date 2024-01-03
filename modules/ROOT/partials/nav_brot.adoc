@@ -1,0 +1,6 @@
+.Brot
+
+* xref:brot/nussbrot.adoc[]
+* xref:brot/party_zwiebelbrot.adoc[]
+* xref:brot/zupfbrot.adoc[]
+* xref:brot/zwiebelbrot.adoc[]

@@ -1,4 +1,4 @@
-== Key Lime Pie
+= Key Lime Pie
 
 [cols="1,1", frame="none", grid="none"]
 |===
