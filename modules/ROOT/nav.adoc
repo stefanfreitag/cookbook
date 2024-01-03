@@ -9,8 +9,12 @@ include::partial$nav_sossen.adoc[Sossen]
 
 include::partial$nav_suppen.adoc[Suppen]
 
+include::partial$nav_beilagen.adoc[Beilagen]
+
 include::partial$nav_gebaeck.adoc[Gebäck]
 
 include::partial$nav_kuchen.adoc[Kuchen]
 
 include::partial$nav_nachspeisen.adoc[Nachspeisen]
+
+include::partial$nav_brot.adoc[Brot]
