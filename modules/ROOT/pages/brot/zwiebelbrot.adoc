@@ -1,6 +1,6 @@
 = Zwiebelbrot
 
-image:zwiebelbrot_low.jpg[Zwiebelbrot,width=570,height=382]
+image:zwiebelbrot.jpg[Zwiebelbrot,width=570,height=382]
 
 * Zubereitung: ca. 20 Minuten
 * Backen: ca. 30 Minuten
