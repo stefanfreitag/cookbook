@@ -1,10 +1,13 @@
 = Ofen-Frikadellen
 
-image:../images/ofen_frikadellen_low.jpg[Ofen-Frikadellen,width=570,height=382]
-
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::ofen_frikadellen.jpg[Ofen-Frikadellen,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
 * Zubereitung: ca. 15 Minuten
 * Backzeit: ca. 30 Minuten
 * Für 6 Personen
+|===
 
 == Zutaten
 

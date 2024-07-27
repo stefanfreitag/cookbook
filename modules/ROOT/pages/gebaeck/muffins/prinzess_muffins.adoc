@@ -1,0 +1,32 @@
+= Prinzess-Muffins
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::prinzess_muffins.jpg[Prinzess-Muffins,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+- Zubereitung: ca. 25 Minuten
+- Für 12 Stück
+|===
+
+== Zutaten
+
+* 265 g Aprikosenhälften, abgetropft/ aus der Dose
+* 200 g Weizenmehl
+* 2 gestr. TL Backpulver
+* 150 g Zucker
+* 1 Prise Salz
+* 50 g gehackte Mandeln
+* 100 ml Buttermilch
+* 50 ml neutrales Speiseöl
+* 2 Eier, Größe M
+
+== Zubereitung
+
+* Den Backofen vorheizen auf etwa 180° Celsius (160° Celsius Umluft). Die Aprikosenhälften in sehr kleine Würfel schneiden.
+* Für den Teig Mehl mit Backpulver, Zucker, Salz und Mandeln in einer Rührschüssel mit einem Schneebesen verrühren. 
+* Buttermilch, Speiseöl und Eier mit dem Schneebesen verrühren. Dann die ﬂüssigen Zutaten zu der Mehl-Mandel-Mischung in die Rührschüssel geben und zu einem glatten Teig verrühren. Die Aprikosenwürfel unterrühren.
+* Den Teig in die Mulden einer Muffinform geben und glatt streichen. Die Form auf einem Rost in den Backofen schieben und circa 30 Minuten backen.
+* Die Muffins circa 5 Minuten in der Form auskühlen lassen.
+
+Quelle: Dr. Oetker Cupcakes und Muffins von A bis Z (ISBN:
+978-3767017122)
