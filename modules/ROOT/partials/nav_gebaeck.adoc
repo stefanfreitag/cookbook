@@ -1,7 +1,7 @@
 .Gebäck
 
 * xref:gebaeck/muffins/apfelmuffins.adoc[Apfelmuffins]
-* xref:gebaeck/apfeltaschen.adoc[Ap]
+* xref:gebaeck/apfeltaschen.adoc[Apfeltaschen]
 * xref:gebaeck/apfel_zimt_fruchtriegel.adoc[]
 * xref:gebaeck/aprikosen_ufos.adoc[Aprikosen-Ufos]
 * xref:gebaeck/ausstechplaetzchen.adoc[]
@@ -10,7 +10,7 @@
 * xref:gebaeck/caipirinha_plaetzchen.adoc[]
 * xref:gebaeck/cranberry_cookies.adoc[]
 * xref:gebaeck/muffins/cream_cheese_muffins.adoc[]
-* xref:gebaeck/muffins/dinkel_kirsch_muffins[]
+* xref:gebaeck/muffins/dinkel_kirsch_muffins.adoc[Dinkel-Kirsch-Muffins]
 * xref:gebaeck/muffins/erdbeer_rhabarber_muffins.adoc[]
 * xref:gebaeck/muffins/fanta_zitronen_muffins.adoc[]
 * xref:gebaeck/flachswickel.adoc[Flachswickel]
@@ -20,10 +20,10 @@
 * xref:gebaeck/muffins/joghurtmuffins_mit_pflaumen.adoc[]
 * xref:gebaeck/kaenguru_kekse.adoc[]
 * xref:gebaeck/kekslollies.adoc[]
-* xref:gebaeck/kirschwaffeln.adoc[]
-* xref:gebaeck/konfetti_cookies.adoc[]
+* xref:gebaeck/kirschwaffeln.adoc[Kirschwaffeln]s
+* xref:gebaeck/konfetti_cookies.adoc[Konfetti-Cookies]
 * xref:gebaeck/luebecker_marzipan_makronen.adoc[]
-* xref:gebaeck/macadamia_cookies.adoc[]
+* xref:gebaeck/macadamia_cookies.adoc[Macadamia-Cookies]
 * xref:gebaeck/muffins/marmor_nutella_muffins.adoc[]
 * xref:gebaeck/nussecken.adoc[Nussecken]
 * xref:gebaeck/peanut_cookies.adoc[Peanut-Cookies]
