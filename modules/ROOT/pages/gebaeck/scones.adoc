@@ -1,0 +1,37 @@
+= Scones
+
+[cols="1,1", frame="none", grid="none"]
+|===
+a|image::scones.jpg[Scones,width=800,height=600,pdfwidth=80%,align="center"]
+a|.Allgemeines
+* Zubereitung: ca. 25 Minuten
+* Backen: ca. 10 Minuten
+* Für 10 Stück
+|===
+
+== Zutaten
+
+* 250 g Mehl
+* 1/2 TL Salz
+* 2 TL Backpulver (gestrichen)
+* 30 g Butter
+* 150 ml Milch
+* Mehl zum Ausrollen
+* Milch zum Bestreichen
+* 100 g Erdbeerkonfitüre
+* 100 g Sahne
+* 1/4 TL Vanillinzucker
+
+== Zubereitung
+
+- Mehl, Salz und Backpulver in einer Schüssel vermischen. Butter in
+Flöckchen schneiden und mit dem Mehl vermischen. Nach und nach Milch
+zugeben und einen glatten Teig kneten. 10 Minuten im Kühlschrank ruhen
+lassen.
+- Teig auf einer bemehlten Arbeitsfläche 2 cm dick ausrollen. Mit einem
+Glas runde Stücke (5 cm Durchmesser) ausstechen. Auf das Backblech
+setzen und 5 Minuten ruhen lassen. Dann mit Milch bestreichen und für 10
+Minuten in den vorgeheizten Backofen (200° Celsius) geben.
+- Scones in 2 Hälften schneiden. Auf jede Hälfte einen Teelöffel
+Erdbeerkonfitüre und einen Teelöffel leicht gesüßte steif geschlagene
+Sahne geben. Warm verzehren.
