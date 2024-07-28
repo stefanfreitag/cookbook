@@ -29,6 +29,8 @@
 * xref:gebaeck/peanut_cookies.adoc[Peanut-Cookies]
 * xref:gebaeck/muffins/prinzess_muffins.adoc[Prinzess-Muffins]
 * xref:gebaeck/muffins/ruebli_muffins.adoc[Rübli Muffins]
+* xref:gebaeck/scones.adoc[Scones]
+* xref:gebaeck/schweizer_schokoberge.adoc[Schweizer Schokoberge]
 * xref:gebaeck/vegane_amerikaner.adoc[Vegane Amerikaner]
 * xref:gebaeck/waffeln.adoc[Waffeln]
 * xref:gebaeck/zitronengras_vanilla_cookies.adoc[Zitronengras-Vanilla-Cookies]
