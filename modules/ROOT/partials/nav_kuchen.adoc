@@ -35,6 +35,7 @@
 * xref:kuchen/marmorkuchen.adoc[Marmorkuchen]
 * xref:kuchen/milchreiskuchen.adoc[Milchreiskuchen]
 * xref:kuchen/mini_kaesekuchen.adoc[]
+* xref:kuchen/philadelphia_torte.adoc[]
 * xref:kuchen/quark_streuselkuchen_mit_kirschen.adoc[]
 * xref:kuchen/rote_bete_schokokuchen.adoc[]
 * xref:kuchen/saftiger_birnenkuchen.adoc[Saftiger Birnenkuchen]
