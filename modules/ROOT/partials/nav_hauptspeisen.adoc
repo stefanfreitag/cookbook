@@ -14,7 +14,7 @@
 * xref:hauptspeisen/vegetarisch/cremiger_nudelauflauf.adoc[Cremiger Nudelauflauf]
 * xref:hauptspeisen/vegetarisch/deftiger_knoedelauflauf.adoc[Deftiger Knödelauflauf]
 * xref:hauptspeisen/vegetarisch/enchiladas_de_queso.adoc[]
-* xref:hauptspeisen/vegetarisch/enchilada_lasagne.adoc[Enchilada-Lasagne]
+* xref:hauptspeisen/enchilada_lasagne.adoc[Enchilada-Lasagne]
 * xref:hauptspeisen/vegetarisch/farfalle_mit_mozzarella_und_pinienkernen.adoc[]
 * xref:hauptspeisen/vegetarisch/faecherkartoffeln_mit_quark.adoc[]
 * xref:hauptspeisen/fischburger.adoc[Fischburger]
