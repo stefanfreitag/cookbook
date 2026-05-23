@@ -18,3 +18,5 @@ include::partial$nav_kuchen.adoc[Kuchen]
 include::partial$nav_nachspeisen.adoc[Nachspeisen]
 
 include::partial$nav_brot.adoc[Brot]
+
+include::partial$nav_fingerfood.adoc[Fingerfood]
